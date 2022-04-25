@@ -1,0 +1,18 @@
+.header__lang-link {
+    font-size: 24px;
+    font-style: normal;
+    line-height: 28px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 6px 6px 18px;
+}
+
+@media screen and (max-width: 568px) {
+    .header__lang-link {
+        padding: 14px 0 8px 0;
+        font-size: 18px;
+        line-height: 20px;
+    }
+}

@@ -1,0 +1,16 @@
+.block-place {
+    padding-bottom: 92px;
+
+}
+
+@media screen and (max-width: 984px) {
+    .block-place {
+        padding-bottom: 90px;
+    }
+}
+
+@media screen and (max-width: 568px) {
+    .block-place {
+        padding-bottom: 66px;
+    }
+}
